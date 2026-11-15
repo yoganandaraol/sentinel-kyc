@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/SentinelKyc.Console/SentinelKyc.Console.csproj" />
+  </Folder>
+</Solution>
